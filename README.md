@@ -11,11 +11,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
-### 📊 GitHub Stats
-<p>
-  <img src="https://readme-stats-eight-pi.vercel.app/api?username=yijuuuun&show_icons=true&include_all_commits=true" height="160" />
-  <img src="https://readme-stats-eight-pi.vercel.app/api/top-langs/?username=yijuuuun&layout=compact" height="160" />
-</p>
+### 📊 GitHub
+[![yijuuuun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yijuuuun&theme=minimal)](https://github.com/yijuuuun)
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yijuuuun&utm_content=farm">
 <img
