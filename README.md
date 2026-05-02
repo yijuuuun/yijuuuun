@@ -12,7 +12,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ### 📊 GitHub
-[![yijuuuun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yijuuuun&theme=minimal)](https://github.com/yijuuuun)
+<img src="https://github-profile-trophy.vercel.app/?username=yijuuuun" />
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yijuuuun&utm_content=farm">
 <img
