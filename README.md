@@ -13,8 +13,8 @@
 
 ### 📊 GitHub Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=yijuuuun&show_icons=true&theme=default" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yijuuuun&layout=compact&theme=default" height="160" />
+  <img src="https://readme-stats-eight-pi.vercel.app/api?username=yijuuuun&show_icons=true&include_all_commits=true" height="160" />
+  <img src="https://readme-stats-eight-pi.vercel.app/api/top-langs/?username=yijuuuun&layout=compact" height="160" />
 </p>
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yijuuuun&utm_content=farm">
