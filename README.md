@@ -11,9 +11,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
-### 📊 GitHub
-<img src="https://github-profile-trophy.vercel.app/?username=yijuuuun" />
-
+### 🌱 My Garden
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yijuuuun&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/yijuuuun"
