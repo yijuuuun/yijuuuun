@@ -14,7 +14,7 @@
 ### 🏆 Awards & Achievements
 | Award | Project | Description |
 |---|---|---|
-| 🥈 2nd Place | Junction Asia 2025 | 산불 예측 iPadOS 앱 |
+| 🥈 2nd Place | Junction Asia 2025(Track: Microsoft, POSTECH, 경상북도) | 산불 예측 iPadOS 앱 |
 | 🏅 AI Track Winner | SideImpact 2025 | 이으미 - AAC 앱 |
 | 📚 Upstage 공식 교육 콘텐츠 채택 | 부동산 문서 분석 앱 | Upstage 문서 파싱 API 활용 프로젝트 |
 
