@@ -2,7 +2,6 @@
 - 🎓 I'm a student at Dongguk University, majoring in Computer Science & AI.
 - 🍎 I completed the Apple Developer Academy @ POSTECH, where I focused on Swift and iOS development.
 - 💻 Built web frontends with React, and now learning server-side development.
-- ⚙️ Recently joined the infra team of a club product team as an SRE.
 
 ### 🏆 Awards & Achievements
 | Award | Project | Description |
@@ -14,7 +13,6 @@
 ### 🙌 Activities
 - 🧑‍🏫 Mentor, Kakao AI Rookie Camp 2th
 - 👑 President, UMC Dongguk University (11th)
-- 🔧 SRE, Infra Team UMC Product Team
 
 
 ### 🌱 My Garden
